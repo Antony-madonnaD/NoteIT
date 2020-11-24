@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "543395855228",
+    "firebase_url": "https://noteit-madonna.firebaseio.com",
+    "project_id": "noteit-madonna",
+    "storage_bucket": "noteit-madonna.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543395855228:android:c0124e21212f827ec302f9",
+        "android_client_info": {
+          "package_name": "com.example.NoteIT"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543395855228-92ov1lb3u92kg14jmqcf7uqjl5b32van.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3cBCM-WDLCagRFgB5Hi7tONepADAWRUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543395855228-92ov1lb3u92kg14jmqcf7uqjl5b32van.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
